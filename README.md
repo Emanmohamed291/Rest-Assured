@@ -72,10 +72,3 @@ Through this project, I practiced:
 
 This project is based on the [Complete RestAssured Course by QACart](https://qacart.com/course/rest-assured-101).
 
----
-
-## 👩‍💻 Author
-
-**Eman Mohamed**  
-Embedded Software & QA Engineer  
-GitHub: [@Emanmohamed291](https://github.com/Emanmohamed291)
